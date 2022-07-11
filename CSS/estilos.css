@@ -11,11 +11,27 @@ body{
     padding: 0;
 }
 
+#cabecera{
+    background:rgb(20, 114, 221);
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.75);
+    color: white;
+    font-weight: bold;
+    padding: 0.5cm;
+
+}
+
+#cabecera #tagline{
+    padding: 0 0 0 1cm;
+    font-weight: normal;
+    font-size: 0.8cm;
+
+}
+
 #container{
     width: 70%;
+<<<<<<< HEAD
     padding: 2cm;
     text-align: center;
     border: 2px solid rgb(221, 20, 20);
     margin:0 auto;
 }
-
