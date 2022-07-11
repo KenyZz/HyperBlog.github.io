@@ -1,3 +1,7 @@
+#container h1{
+    font-size: 20px;
+}
+
 body{
     color: steelblue;
     text-align: center;
@@ -9,12 +13,9 @@ body{
 
 #container{
     width: 70%;
-    padding: 1cm;
-    text-align: left;
-    border: 1px solid rgb(27, 221, 20);
-    margin: 0 auto;
+    padding: 2cm;
+    text-align: center;
+    border: 2px solid rgb(221, 20, 20);
+    margin:0 auto;
 }
 
-#container h1{
-    font-size: 20px;
-}
